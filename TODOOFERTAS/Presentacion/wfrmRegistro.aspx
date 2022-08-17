@@ -1,7 +1,5 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="wfrmRegistro.aspx.cs" Inherits="TODOOFERTAS.Presentacion.wfrmRegistro" %>
-
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-
     <script type="text/javascript">
         function SoloLetras(e) {
             if (!(/[A-Za-z]/.test(e.key)))

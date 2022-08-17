@@ -31,7 +31,7 @@ namespace TODOOFERTAS.Presentacion
 
         private bool faltanDatos()
         {
-            if(this.txtCedula.Text == "" || this.txtNombre.Text == "" || this.txtPassword.Text == "")
+            if (this.txtCedula.Text == "" || this.txtNombre.Text == "" || this.txtPassword.Text == "")
             {
                 return true;
             }

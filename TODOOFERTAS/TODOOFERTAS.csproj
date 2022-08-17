@@ -192,6 +192,7 @@
     <Content Include="Presentacion\wfrmInsertarPromocion.aspx" />
     <Content Include="Presentacion\wfrmLogin.aspx" />
     <Content Include="Presentacion\wfrmLoginUsuario.aspx" />
+    <Content Include="Presentacion\wfrmRegistro.aspx" />
     <Content Include="Presentacion\wfrmRegistroUsuario.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -294,6 +295,13 @@
     </Compile>
     <Compile Include="Presentacion\wfrmLoginUsuario.aspx.designer.cs">
       <DependentUpon>wfrmLoginUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\wfrmRegistro.aspx.cs">
+      <DependentUpon>wfrmRegistro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion\wfrmRegistro.aspx.designer.cs">
+      <DependentUpon>wfrmRegistro.aspx</DependentUpon>
     </Compile>
     <Compile Include="Presentacion\wfrmRegistroUsuario.aspx.cs">
       <DependentUpon>wfrmRegistroUsuario.aspx</DependentUpon>
