@@ -1,0 +1,717 @@
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll.config
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.pdb
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe.config
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.rsp
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe.config
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.rsp
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.AppContext.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Console.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Http.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe.config
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.rsp
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\WebGrease.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.xml
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.xml
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.pdb
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.AssemblyReference.cache
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CopyComplete
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.dll
+C:\Users\Goku\Documents\Visual Studio 2022\Projects\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.pdb
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll.config
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.pdb
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe.config
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.rsp
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe.config
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.rsp
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.AppContext.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Console.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Http.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.ValueTuple.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe.config
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.rsp
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\WebGrease.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.pdb
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CopyComplete
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.pdb
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll.config
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.pdb
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe.config
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.rsp
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe.config
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.rsp
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.AppContext.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Console.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Http.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.ValueTuple.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe.config
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.rsp
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\WebGrease.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.xml
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.xml
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.pdb
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CopyComplete
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.dll
+C:\Users\octae\Desktop\Clases\TallerSecurity\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.pdb
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll.config
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.pdb
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe.config
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.rsp
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe.config
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.rsp
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.AppContext.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Console.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Http.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe.config
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.rsp
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\WebGrease.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.pdb
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.AssemblyReference.cache
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CopyComplete
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.pdb
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.AssemblyReference.cache
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CoreCompileInputs.cache
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.pdb
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll.config
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.pdb
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe.config
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.rsp
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe.config
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.rsp
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.AppContext.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Console.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Http.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.ValueTuple.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe.config
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.rsp
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\WebGrease.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.pdb
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CopyComplete
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.AspNet.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.DiagnosticSource.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Buffers.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Collections.Immutable.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Memory.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Numerics.Vectors.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Reflection.Metadata.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Encodings.Web.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Json.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.ValueTuple.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.AspNet.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.DiagnosticSource.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Buffers.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Collections.Immutable.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Memory.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Numerics.Vectors.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Reflection.Metadata.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Encodings.Web.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Json.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.ValueTuple.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\Sentry.Attributes.cs
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.SqlServer.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.EntityFramework.dll
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.SqlServer.xml
+C:\Users\Goku\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.EntityFramework.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.AssemblyReference.cache
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\obj\Debug\Sentry.Attributes.cs
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CoreCompileInputs.cache
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.pdb
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll.config
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.pdb
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe.config
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.rsp
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe.config
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.rsp
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.AppContext.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Collections.Immutable.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Console.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Globalization.Calendars.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Http.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Sockets.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.ValueTuple.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe.config
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.rsp
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe.config
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.jQuery.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.SqlServer.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Web.Infrastructure.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Sentry.AspNet.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Sentry.DiagnosticSource.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Sentry.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Sentry.EntityFramework.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Buffers.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Collections.Immutable.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Memory.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Numerics.Vectors.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Reflection.Metadata.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Encodings.Web.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Json.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Threading.Tasks.Extensions.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.ValueTuple.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\WebGrease.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.SqlServer.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Sentry.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Sentry.AspNet.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Sentry.DiagnosticSource.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Sentry.EntityFramework.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Buffers.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Collections.Immutable.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Memory.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Numerics.Vectors.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Reflection.Metadata.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Encodings.Web.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Json.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Threading.Tasks.Extensions.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.ValueTuple.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.pdb
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\es\System.Web.Optimization.resources.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Descargas\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CopyComplete
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.SqlServer.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.AspNet.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.DiagnosticSource.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.EntityFramework.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Buffers.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Collections.Immutable.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Memory.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Numerics.Vectors.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Reflection.Metadata.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Encodings.Web.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Json.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.ValueTuple.dll
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.SqlServer.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.AspNet.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.DiagnosticSource.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.EntityFramework.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Buffers.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Collections.Immutable.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Memory.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Numerics.Vectors.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Reflection.Metadata.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Encodings.Web.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Json.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.ValueTuple.xml
+C:\Users\octae\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\Sentry.Attributes.cs
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.SqlServer.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.AspNet.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.DiagnosticSource.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.EntityFramework.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Buffers.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Collections.Immutable.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Memory.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Numerics.Vectors.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Reflection.Metadata.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Encodings.Web.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Json.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.ValueTuple.dll
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.SqlServer.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.AspNet.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.DiagnosticSource.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\Sentry.EntityFramework.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Buffers.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Collections.Immutable.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Memory.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Numerics.Vectors.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Reflection.Metadata.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Encodings.Web.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Json.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\bin\System.ValueTuple.xml
+C:\Users\barte\Desktop\TODOOFERTAS\TODOOFERTAS\obj\Debug\Sentry.Attributes.cs
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll.config
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\TODOOFERTAS.pdb
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.exe.config
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csc.rsp
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.exe.config
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\csi.rsp
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.AppContext.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Console.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Http.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.ValueTuple.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.exe.config
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\vbc.rsp
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.SqlServer.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Sentry.AspNet.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Sentry.DiagnosticSource.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Sentry.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Sentry.EntityFramework.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Buffers.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Collections.Immutable.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Memory.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Numerics.Vectors.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Reflection.Metadata.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Encodings.Web.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Json.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.ValueTuple.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\WebGrease.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\EntityFramework.SqlServer.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Sentry.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Sentry.AspNet.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Sentry.DiagnosticSource.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Sentry.EntityFramework.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Buffers.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Collections.Immutable.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Memory.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Numerics.Vectors.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Reflection.Metadata.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Encodings.Web.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Text.Json.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.ValueTuple.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\System.Web.Optimization.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Newtonsoft.Json.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Antlr3.Runtime.pdb
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\obj\Debug\Sentry.Attributes.cs
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.csproj.CopyComplete
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.dll
+C:\Users\barte\Desktop\Nueva carpeta\TODOOFERTAS\TODOOFERTAS\obj\Debug\TODOOFERTAS.pdb

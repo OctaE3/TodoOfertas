@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sentry.EntityFramework</name>
+    </assembly>
+    <members>
+        <member name="T:Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor">
+            <summary>
+            Exception processor for Entity Framework <see cref="T:System.Data.DBConcurrencyException"/>.
+            </summary>
+        </member>
+        <member name="M:Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor.ProcessException(System.Data.DBConcurrencyException,Sentry.SentryEvent)">
+            <summary>
+            Extracts RowCount and RowError from <see cref="T:System.Data.DBConcurrencyException"/>.
+            </summary>
+        </member>
+        <member name="T:Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor">
+            <summary>
+            Exception processor for <see cref="T:System.Data.Entity.Validation.DbEntityValidationException"/>.
+            </summary>
+        </member>
+        <member name="M:Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor.ProcessException(System.Data.Entity.Validation.DbEntityValidationException,Sentry.SentryEvent)">
+            <summary>
+            Extracts details from <see cref="T:System.Data.Entity.Validation.DbEntityValidationException"/> into the <see cref="T:Sentry.SentryEvent"/>.
+            </summary>
+        </member>
+        <member name="T:Sentry.EntityFramework.IQueryLogger">
+            <summary>
+            A query logger interface.
+            </summary>
+        </member>
+        <member name="M:Sentry.EntityFramework.IQueryLogger.Log(System.String,Sentry.BreadcrumbLevel)">
+            <summary>
+            Logs a query with a related level.
+            </summary>
+            <param name="text">The query text.</param>
+            <param name="level">The level.</param>
+        </member>
+        <member name="T:Sentry.EntityFramework.SentryCommandInterceptor">
+            <summary>
+            A command interceptor to augment data for Sentry.
+            </summary>
+        </member>
+        <member name="M:Sentry.EntityFramework.SentryCommandInterceptor.#ctor(Sentry.EntityFramework.IQueryLogger)">
+            <summary>
+            Creates a new instance of <see cref="T:Sentry.EntityFramework.SentryCommandInterceptor"/>.
+            </summary>
+            <param name="queryLogger"></param>
+        </member>
+        <member name="M:Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuting(System.Data.Common.DbCommand,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{System.Int32})">
+            <summary>
+            Logs a call to <see cref="M:Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuting(System.Data.Common.DbCommand,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{System.Int32})"/>.
+            </summary>
+        </member>
+        <member name="M:Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuted(System.Data.Common.DbCommand,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{System.Int32})">
+            <summary>
+            No Op.
+            </summary>
+        </member>
+        <member name="M:Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuting(System.Data.Common.DbCommand,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{System.Data.Common.DbDataReader})">
+            <summary>
+            Logs a call to <see cref="M:Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuting(System.Data.Common.DbCommand,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{System.Data.Common.DbDataReader})"/>.
+            </summary>
+        </member>
+        <member name="M:Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuted(System.Data.Common.DbCommand,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{System.Data.Common.DbDataReader})">
+            <summary>
+            No Op.
+            </summary>
+        </member>
+        <member name="M:Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuting(System.Data.Common.DbCommand,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{System.Object})">
+            <summary>
+            Logs a call to <see cref="M:Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuting(System.Data.Common.DbCommand,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{System.Object})"/>.
+            </summary>
+        </member>
+        <member name="M:Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuted(System.Data.Common.DbCommand,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{System.Object})">
+            <summary>
+            Logs a call to <see cref="M:Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuted(System.Data.Common.DbCommand,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{System.Object})"/>.
+            </summary>
+        </member>
+        <member name="M:Sentry.EntityFramework.SentryCommandInterceptor.Log``1(System.Data.Common.DbCommand,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{``0})">
+            <summary>
+            Logs the <see cref="T:System.Data.Common.DbCommand"/> with the specified context.
+            </summary>
+        </member>
+        <member name="T:Sentry.EntityFramework.SentryDatabaseLogging">
+            <summary>
+            Sentry Database Logger
+            </summary>
+        </member>
+        <member name="M:Sentry.EntityFramework.SentryDatabaseLogging.UseBreadcrumbs(Sentry.EntityFramework.IQueryLogger)">
+            <summary>
+            Adds an instance of <see cref="T:Sentry.EntityFramework.SentryCommandInterceptor"/> to <see cref="T:System.Data.Entity.Infrastructure.Interception.DbInterception"/>
+            This is a static setup call, so make sure you only call it once for each <see cref="T:Sentry.EntityFramework.IQueryLogger"/> instance you want to register globally
+            </summary>
+            <param name="logger">Query Logger.</param>
+        </member>
+        <member name="M:Sentry.EntityFramework.SentryQueryPerformanceListener.Finish``1(System.String,System.Data.Entity.Infrastructure.Interception.DbCommandInterceptionContext{``0})">
+            <summary>
+            Finishes the span contained on interceptionContext.
+            </summary>
+            <typeparam name="T">(unused) The TResult from the Interception.</typeparam>
+            <param name="key">The key operation, used for logging.</param>
+            <param name="interceptionContext">The data that must contain a Span reference.</param>
+        </member>
+        <member name="T:Sentry.SentryOptionsExtensions">
+            <summary>
+            Extension methods to <see cref="T:Sentry.SentryOptions"/>
+            </summary>
+        </member>
+        <member name="M:Sentry.SentryOptionsExtensions.AddEntityFramework(Sentry.SentryOptions)">
+            <summary>
+            Adds the entity framework integration.
+            </summary>
+            <param name="sentryOptions">The sentry options.</param>
+        </member>
+        <member name="M:Sentry.SentryOptionsExtensions.DisableDbInterceptionIntegration(Sentry.SentryOptions)">
+            <summary>
+            Disables the integrations with DbInterception.
+            </summary>
+            <param name="options">The SentryOptions to remove the integration from.</param>
+        </member>
+    </members>
+</doc>
