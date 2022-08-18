@@ -1,0 +1,90 @@
+create table Administrador(
+cedula int primary key,
+nombre varchar(30) not null,
+password varchar(16) not null,
+intentos int
+);
+
+create table Usuario(
+cedula int primary key,
+nombre varchar(30) not null,
+password varchar(16) not null,
+intentos int
+);
+
+create table Promocion(
+id_promocion varchar(6) primary key,
+titulo varchar(30),
+descripcion varchar(50),
+producto varchar(30),
+precio_original int not null,
+precio_promocion int,
+porcentaje_descuento int not null,
+imagen varchar(150),
+detalles varchar(100),
+condiciones varchar(100),
+fecha date not null
+);
+
+create table Venta(
+id_venta int identity(1,1) primary key,
+id_promocion varchar(6),
+ci_usuario int references Usuario(cedula)
+);
+
+create table audithPromocion(
+aId int identity(1,1) primary key,
+cedula int,
+descripcion varchar(30),
+fecha date
+);
+
+create trigger preciodescuento
+on Promocion
+Instead of insert, update
+as
+begin 
+ Declare @id_promocion varchar(6);
+ Declare @titulo varchar(30);
+ Declare @descripcion varchar(50);
+ Declare @producto varchar(30);
+ Declare @precio_original int;
+ Declare @precio_promocion int;
+ Declare @porcentaje_descuento int;
+ Declare @imagen varchar(150);
+ Declare @detalles varchar(100);
+ Declare @condiciones varchar(100);
+ Declare @fecha date;
+ set @id_promocion = (select id_promocion from inserted);
+ set @titulo = (select titulo from inserted);
+ set @descripcion = (select descripcion from inserted);
+ set @producto = (select producto from inserted);
+ set @precio_original = (select precio_original from inserted);
+ set @porcentaje_descuento = (select porcentaje_descuento from inserted);
+ set @imagen = (select imagen  from inserted);
+ set @detalles = (select detalles from inserted);
+ set @condiciones = (select condiciones from inserted);
+ set @fecha = (select fecha from inserted);
+ set @precio_promocion = (@precio_original - (@precio_original * @porcentaje_descuento / 100));
+ if Exists(Select * from deleted)
+	begin
+	Update Promocion set titulo = @titulo,
+						 descripcion = @descripcion,
+						 producto = @producto,
+						 precio_original = @precio_original,
+						 precio_promocion = @precio_promocion,
+						 porcentaje_descuento = @porcentaje_descuento,
+						 imagen = @imagen,
+						 detalles = @detalles,
+						 condiciones = @condiciones,
+						 fecha = @fecha
+					where id_promocion = @id_promocion
+	End;
+	else
+	begin
+	insert into Promocion(id_promocion, titulo, descripcion, producto, precio_original, precio_promocion, porcentaje_descuento, imagen, detalles, condiciones, fecha)
+	values(@id_promocion, @titulo, @descripcion, @producto, @precio_original, @precio_promocion, @porcentaje_descuento, @imagen, @detalles, @condiciones, @fecha)
+	End;
+
+end 
+go
