@@ -19,12 +19,12 @@
         <div class="col-lg-8">
             <p style="font-size: 2em; font-weight: bold; text-align: center">Login Administrador</p>
             <div class="mb-3">
-                Cédula
+                Cédula (8 números sin punto ni guión)
                 <asp:TextBox ID="txtCedula" CssClass="form-control" runat="server" MaxLength="8" />
             </div>
             <div class="mb-3">
                 Contraseña
-                <asp:TextBox ID="txtPassword" CssClass="form-control" runat="server" TextMode="Password" />
+                <asp:TextBox ID="txtPassword" CssClass="form-control" runat="server" TextMode="Password" MaxLength="16" />
             </div>
             <div class="mb-3">
                 <asp:Button ID="btnIniciarSesion" type="button" class="btn btn-dark" runat="server" Text="Ingresar" OnClick="btnIniciarSesion_Click" />

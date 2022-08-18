@@ -34,11 +34,15 @@ namespace TODOOFERTAS.Presentacion
                 Response.Redirect("~/Presentacion/wfrmLogin");
             }
 
+            txtIdProm.Attributes.Add("onkeypress", "LetrasYNumeros(event);");
+            txtTitulo.Attributes.Add("onkeypress", "LetrasNumerosYEspacios(event);");
+            txtProducto.Attributes.Add("onkeypress", "LetrasNumerosYEspacios(event);");
+            txtPrecioOriginal.Attributes.Add("onkeypress", "SoloNumeros(event);");
+            txtPorcentajeDescuento.Attributes.Add("onkeypress", "SoloNumeros(event);");
+
             if (!IsPostBack)
             {
                 this.Listar();
-                txtPrecioOriginal.Attributes.Add("onkeypress", "SoloNumeros(event);");
-                txtPorcentajeDescuento.Attributes.Add("onkeypress", "SoloNumeros(event);");
             }
         }
 

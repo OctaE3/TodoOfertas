@@ -7,6 +7,16 @@
             if (!(/[0-9]/.test(e.key)))
                 e.preventDefault();
         }
+
+        function LetrasYNumeros(e) {
+            if (!(/[A-Za-z0-9]/.test(e.key)))
+                e.preventDefault();
+        }
+
+        function LetrasNumerosYEspacios(e) {
+            if (!(/[A-Za-z0-9 ]/.test(e.key)))
+                e.preventDefault();
+        }
     </script>
 
     <h3 style="margin-top: 2%">Promoción</h3>
@@ -16,7 +26,7 @@
             <p style="font-size: 2em; font-weight: bold; text-align: center">Promoción</p>
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">Id de Promoción</label>
-                <input type="text" class="form-control" id="txtIdProm" runat="server">
+                <input type="text" class="form-control" id="txtIdProm" runat="server" maxlength="6">
             </div>
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">Título</label>

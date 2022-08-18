@@ -25,7 +25,7 @@
             </div>
             <div class="mb-3">
                 Contraseña
-                <asp:TextBox ID="txtPassword" CssClass="form-control" runat="server" TextMode="Password" />
+                <asp:TextBox ID="txtPassword" CssClass="form-control" runat="server" TextMode="Password" MaxLength="16" />
             </div>
             <div class="mb-3">
                 <asp:Button ID="btnRegistro" type="button" class="btn btn-dark" runat="server" Text="Registrarse" OnClick="btnRegistro_Click" />

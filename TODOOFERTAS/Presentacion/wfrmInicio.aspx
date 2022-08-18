@@ -34,7 +34,7 @@
         <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-4"></div>
             <div class="col-lg-4 col-md-4 col-sm-4" style="margin-top: 1.5em">
-                <asp:TextBox runat="server" ID="txtIdPromocion" class="form-control" placeholder="Ingrese código de promoción" /><asp:Button class="btn btn-primary" ID="btnComprar" Text="Comprar" Style="margin-top: 1em" runat="server" OnClick="btnComprar_Click" />
+                <asp:TextBox runat="server" ID="txtIdPromocion" class="form-control" placeholder="Ingrese código de promoción" MaxLength="6" /><asp:Button class="btn btn-primary" ID="btnComprar" Text="Comprar" Style="margin-top: 1em" runat="server" OnClick="btnComprar_Click" />
             </div>
             <div class="col-lg-4 col-md-4 col-sm-4"></div>
         </div>
